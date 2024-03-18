@@ -17,6 +17,7 @@
 		9F6E07AC2BA87CC9007D9606 /* iosAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F6E07AB2BA87CC9007D9606 /* iosAppTests.swift */; };
 		9F6E07B62BA87CC9007D9606 /* iosAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F6E07B52BA87CC9007D9606 /* iosAppUITests.swift */; };
 		9F6E07B82BA87CC9007D9606 /* iosAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F6E07B72BA87CC9007D9606 /* iosAppUITestsLaunchTests.swift */; };
+		9F6E07C52BA87FF4007D9606 /* UINavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F6E07C42BA87FF3007D9606 /* UINavigationController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		9F6E07B12BA87CC9007D9606 /* iosAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iosAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F6E07B52BA87CC9007D9606 /* iosAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosAppUITests.swift; sourceTree = "<group>"; };
 		9F6E07B72BA87CC9007D9606 /* iosAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9F6E07C42BA87FF3007D9606 /* UINavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UINavigationController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				9F6E079F2BA87CC8007D9606 /* LaunchScreen.storyboard */,
 				9F6E07A22BA87CC8007D9606 /* Info.plist */,
 				9F6E079A2BA87CC7007D9606 /* iosApp.xcdatamodeld */,
+				9F6E07C42BA87FF3007D9606 /* UINavigationController.swift */,
 			);
 			path = iosApp;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9F6E07962BA87CC7007D9606 /* ViewController.swift in Sources */,
+				9F6E07C52BA87FF4007D9606 /* UINavigationController.swift in Sources */,
 				9F6E07922BA87CC7007D9606 /* AppDelegate.swift in Sources */,
 				9F6E07942BA87CC7007D9606 /* SceneDelegate.swift in Sources */,
 				9F6E079C2BA87CC7007D9606 /* iosApp.xcdatamodeld in Sources */,
